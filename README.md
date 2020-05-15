@@ -1,0 +1,2 @@
+# seppi
+Serializable Pandas pipelines
